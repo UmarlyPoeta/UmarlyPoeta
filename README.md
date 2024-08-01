@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h3 align="center">An AGH University of Kraków student enrolled on Computer Science in Engineering</h3>
+<h3 align="center">student of the AGH University of Science and Technology in Krakow, currently studying Technical Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarlypoeta&label=Profile%20views&color=0e75b6&style=flat" alt="umarlypoeta" /> </p>
 
