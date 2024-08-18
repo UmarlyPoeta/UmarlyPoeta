@@ -1,33 +1,24 @@
-<h1 align="center">Hi 👋, I'm Patryk</h1>
-<h3 align="center">student of the AGH University of Science and Technology in Krakow, currently studying Computer Science in Engineering</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umarlypoeta&label=Profile%20views&color=0e75b6&style=flat" alt="umarlypoeta" /> </p>
-
-- 🔭 I’m currently working on [Data Camp Certificate](https://github.com/UmarlyPoeta/my_learning_journey_datacamp)
-
-- 🌱 I’m currently learning **Python skills, numpy, matplotlib, pandas, html+css**
-
-- 👯 I’m looking to collaborate on **any new project**
-
-- 🤝 I’m looking for help with [Book System manager](https://github.com/UmarlyPoeta/book-system-manager)
-
-- 👨‍💻 All of my projects are available at [https://github.com/UmarlyPoeta](https://github.com/UmarlyPoeta)
-
-- 💬 Ask me about **python**
-
-- 📫 How to reach me **patryk.kozlowski1104@gmail.com**
-
-- ⚡ Fun fact **I was studying in a field thinking it was CS cause the word "computer" was in the name of the field**
+# 💫 About Me:
+🔭 I’m currently working on finishing CS50X and Data Camp Cert<br>👯 I’m looking to collaborate on any backend project<br>🤝 I’m looking for help with learning any language :)<br>🌱 I’m currently learning C, Data Science skills, python, backend frameworks<br>📫 How to reach me patryk.kozlowski1104@gmail.com<br>⚡ Fun fact I was studying in a field thinking it was CS cause the word "computer" was in the name of the field
 
 
-<p align="left"> <img src="https://www.codewars.com/users/UmarlyPoeta/badges/large" alt="umarlypoeta" /> </p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UmarlyPoeta&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UmarlyPoeta&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarlyPoeta&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=UmarlyPoeta&theme=merko&no-frame=true&no-bg=true&margin-w=4)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umarlypoeta&show_icons=true&locale=en&layout=compact" alt="umarlypoeta" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umarlypoeta&show_icons=true&locale=en" alt="umarlypoeta" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=UmarlyPoeta&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umarlypoeta&" alt="umarlypoeta" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=UmarlyPoeta&icon=1&color=3)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
