@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on finishing CS50X and Data Camp Cert<br>👯 I’m looking to collaborate on any backend project<br>🤝 I’m looking for help with learning any language :)<br>🌱 I’m currently learning C, Data Science skills, python, backend frameworks<br>📫 How to reach me patryk.kozlowski1104@gmail.com<br>⚡ Fun fact I was studying in a field thinking it was CS cause the word "computer" was in the name of the field
+🔭 I’m currently working on finishing Coursera Amazon Java Software Engineer Certification<br>👯 I’m looking to get my first internship<br>🤝 I’m looking forward to coding something interesting:)<br>🌱 I’m currently learning C++, Java, SQL, ROS2 and basics of electronics<br>📫 How to reach me patryk.kozlowski1104@gmail.com<br>⚡ Fun fact I was studying in a field thinking it was CS cause the word "computer" was in the name of the field
 
 
 # 💻 Tech Stack:
