@@ -1,82 +1,33 @@
 <h1 align="center">Patryk Kozłowski</h1>
-<h3 align="center">Computer Science and Engineering Student at AGH University of Science and Technology</h3>
+<p align="center">
+  Software & robotics engineer in the making · AGH University of Krakow + Cracow University of Technology
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umarlypoeta&label=Profile%20views&color=0e75b6&style=flat" alt="umarlypoeta" />
+  <a href="https://umarlypoeta.github.io/cv-terminal/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/patrykkozlowskisoftawedeveloper">LinkedIn</a> ·
+  <a href="mailto:pkozlowski@student.agh.edu.pl">Email</a> ·
+  <a href="https://www.kaggle.com/patrykkozowski">Kaggle</a> ·
+  <a href="https://leetcode.com/u/UmarlyPoeta">LeetCode</a>
 </p>
 
 ---
 
+### 👋 About me
+- 🎓 **5th-semester Computer Science & Engineering** at AGH (Faculty of Metals Engineering and Industrial Computer Science) and, in parallel, **1st-year Automation & Robotics** at Cracow University of Technology.
+- 🚤 Software for an **autonomous boat** at **AGH Solar Boat** (ROS 2, perception, embedded Linux).
+- 🧠 **Spiking neural networks** for always-on audio event detection at **IDS AGH** (Python, edge devices, Azure).
+- 🛠️ I like systems that touch hardware: C/C++, Python, ROS 2, Linux, Docker.
 
+### 🔭 What I'm working on now
+- **[SNN_Agent](https://github.com/Industrial-Data-Science-AGH/SNN_Agent)**: "Wake-Up AI", glass-break detection with a spiking network of Lu.i neurons (Arduino → Raspberry Pi 5 → Azure). I built the model-package contract and validating loader, the streaming state decoder and NeuronFrame telemetry, plus an SNN-vs-FFT baseline.
+- **AGH Solar Boat**: ROS 2 Humble stack of an autonomous barge (perception, SLAM-based planning, CAN). My parts: a ZED camera exposure controller against sun glare, coordinate-frame (TF) tooling, and a 5G modem service with hot-plug watchdog.
+- **Albert**: my own Polish voice assistant (wake word, local Whisper on GPU, LLM agent with tools, Obsidian-based tutor for my studies).
 
-### 🚀 About Me
+### 🧰 Tech
+**Languages:** C++ · C · Python · Java · TypeScript
+**Robotics & embedded:** ROS 2 · CAN · ZED / LiDAR · ARM Cortex · Arduino · Raspberry Pi
+**ML:** PyTorch · YOLO / TensorRT · snnTorch · scikit-learn
+**Infra:** Linux · Docker · GitHub Actions · Azure · Git
 
-I'm currently a **4th-semester Computer Science and Engineering student at AGH University of Science and Technology**.  
-My current coursework focuses on **data analysis, computer graphics, numerical methods, databases, and computer networks**.
-
-I enjoy building practical software projects across **C++, Python, Java, computer graphics, AI, and backend development**.
-
-### 📚 Current Semester (Semester 4)
-
-Here are the main courses I am currently taking:
-
-- **Statistical Data Analysis**
-- **Fundamentals of Fluid Mechanics**
-- **Fundamentals of Solid Mechanics**
-- **Computer Network Administration**
-- **Computer Graphics**
-- **Numerical Methods**
-- **Databases**
-- **Foreign Language Course**
-
-### 🔭 Currently Working On
-
-- Developing projects related to **software development**, **computer vision**, and **artificial intelligence**, with a strong focus on building practical, technically grounded solutions
-- Exploring real-world applications of **C++** and **Python** in areas such as **image processing**, **machine learning**, and general software engineering
-- Building hands-on repositories that strengthen both my programming skills and my understanding of how software systems are designed, implemented, and improved
-- Expanding my experience through academic assignments, personal projects, and technical experimentation with modern tools, workflows, and development environments
-- Continuously improving my ability to approach engineering problems analytically, transform ideas into working implementations, and write cleaner, more maintainable code
-
-### 🌱 Currently Learning
-
-- Deepening my understanding of **software engineering** principles, including code structure, maintainability, problem decomposition, and practical development patterns
-- Strengthening my knowledge of **computer vision**, **image processing**, and **applied machine learning**, especially in the context of practical programming projects
-- Improving my skills in **C++** and **Python**, with attention to both low-level programming concepts and higher-level application development
-- Learning to use **Docker**, **Kubernetes**, **Nginx**, **N8N**, and modern development workflows more effectively to support collaboration, version control, and structured project development
-- Broadening my technical foundation through continuous learning, experimentation, and project-based work across software systems, AI-related topics, and engineering-oriented programming challenges
-
-### 👨‍💻 Featured Projects
-
-- 📌 Portfolio: [umarlypoeta.github.io/cv-terminal/](https://umarlypoeta.github.io/cv-terminal/)
-- 🎨 **AI Enhanced Renderer** – 3D renderer combining **Modern OpenGL** with AI-based enhancement
-- 🖥️ **Computer Graphics Lab** – repository with computer graphics lab solutions
-- 📊 **Statistical Data Analysis** – coursework and materials related to data analysis
-- 🔢 **Numerical Methods Labs** – projects and exercises for numerical methods
-- 🌐 **Computer Networks** – lab materials and coursework related to networking
-- ⚙️ **Embedded Systems** – firmware, hardware-related work, and technical experiments
-- 🧠 **Second Brain** – personal knowledge base and structured digital vault
-
-### 📄 Resume & Certifications
-
-- View my resume and certificates [here](https://drive.google.com/drive/folders/1XOHupWgBIEOjsj7AEBQcPG9R3xnyC_qF?usp=sharing)
-
-### 🌐 Online Profiles
-
-- 🧠 **LeetCode:** [leetcode.com/u/UmarlyPoeta](https://leetcode.com/u/UmarlyPoeta)
-- 🛣️ **roadmap.sh:** [roadmap.sh/u/umarlypoeta](https://roadmap.sh/u/umarlypoeta)
-- 📊 **Kaggle:** [kaggle.com/patrykkozowski](https://www.kaggle.com/patrykkozowski)
-- 💼 **LinkedIn:** [linkedin.com/in/patrykkozlowskisoftawedeveloper](https://www.linkedin.com/in/patrykkozlowskisoftawedeveloper)
-
-### 📫 Contact Me
-
-- **Email:** pkozlowski@student.agh.edu.pl
-
-### ⚡ Fun Fact
-
-> I originally chose my first field because it had the word "computer" in the name, now I'm fully committed to software development anyway.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarlypoeta&show_icons=true&theme=radical" alt="umarlypoeta GitHub stats" />
-</p>
+> ⚡ I picked my first degree because it had the word "computer" in the name. Now I write software for boats, drones and spiking neurons.
